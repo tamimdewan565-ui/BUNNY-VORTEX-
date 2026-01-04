@@ -1,6 +1,4 @@
-// ==========================
-// SLOT SYSTEM + BANK MANAGER
-// ==========================
+
 
 const cooldowns = new Map();
 
@@ -8,7 +6,7 @@ module.exports = {
   config: {
     name: "slot",
     version: "9.0",
-    author: "Gemini × GPT-5",
+    author: "Gemini × GPT-5",//fixed by kabir
     countDown: 3, // 3 second cooldown for slot
     role: 0,
     shortDescription: { en: "🍉 Food Slot Machine" },
