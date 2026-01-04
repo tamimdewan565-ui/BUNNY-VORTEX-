@@ -1,4 +1,6 @@
-
+// ==========================
+// SLOT SYSTEM + BANK MANAGER
+// ==========================
 
 const cooldowns = new Map();
 
