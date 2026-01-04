@@ -13,20 +13,20 @@
   "checkApproval": true,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "GoatBot",
+  "nickNameBot": "👺RULER☠️",
   "prefix": "!",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "61557290571000",
+    "61585966465927",
     "100087625774227",
-    "61584035788710"
+    "100087625774227"
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": ["61557290571000",
+    "whiteListIds": ["100087625774227",
 "61584035788710",
       ""
     ],
