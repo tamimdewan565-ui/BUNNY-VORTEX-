@@ -8,7 +8,7 @@ module.exports = {
   config: {
     name: "slot",
     version: "9.0",
-    author: "Gemini × GPT-5",
+    author: "fahim Kabir BUNNY VORTEX",
     countDown: 3, // 3 second cooldown for slot
     role: 0,
     shortDescription: { en: "🍉 Food Slot Machine" },
